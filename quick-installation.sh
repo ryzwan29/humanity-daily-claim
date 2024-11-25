@@ -25,8 +25,8 @@ sudo curl -sS https://bootstrap.pypa.io/get-pip.py | python3.12
 
 # clone github
 echo -e "\033[1;32Clone github repository...\033[0m"
-git clone https://github.com/ryzwan29/hana-tf-games.git
-cd hana-tf-games/
+git clone https://github.com/ryzwan29/humanity-daily-claim.git
+cd humanity-daily-claim/
 
 # create environment python
 echo -e "\033[1;32Create python environment...\033[0m"
